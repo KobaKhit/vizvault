@@ -1,32 +1,32 @@
-﻿text_index,Index,Rank,Broadcast,Broadcast Logo,Average viewers (in millions),Date,Network,Network Logo
-a0,0,0,Super Bowl LVIII,superbowl-logos/lviii.png,70,2/11/2024,CBS,network-logos/cbs.png
-a1,1,1,Apollo 11 Moon landing,other-logos/moon.png,142.5,7/20/1969,multiple,network-logos/multiple.png
-a2,2,2,Super Bowl LVII,superbowl-logos/lvii.png,115.1,2/12/2023,Fox,network-logos/fox.png
-a3,3,3,Super Bowl XLIX,superbowl-logos/xlix.png,114.4,2/1/2015,NBC,network-logos/nbc.png
-a4,4,4,Super Bowl LVI,superbowl-logos/lvi.png,112.3,2/13/2022,NBC,network-logos/nbc.png
-a5,5,5,Super Bowl XLVIII,superbowl-logos/xlviii.png,112.2,2/2/2014,Fox,network-logos/fox.png
-a6,6,6,Super Bowl 50,superbowl-logos/50.png,111.9,2/7/2016,CBS,network-logos/cbs.png
-a7,7,7,Super Bowl XLVI,superbowl-logos/xlvi.png,111.3,2/5/2012,NBC,network-logos/nbc.png
-a8,8,7,Super Bowl LI,superbowl-logos/li.png,111.3,2/5/2017,Fox,network-logos/fox.png
-a9,9,9,Super Bowl XLV,superbowl-logos/xlv.png,111,2/6/2011,Fox,network-logos/fox.png
-a10,10,10,Richard Nixon's resignation speech,other-logos/nixon.png,110,8/8/1974,multiple,network-logos/multiple.png
-a11,11,11,Super Bowl XLVII,superbowl-logos/xlvii.png,108.7,2/3/2013,CBS,network-logos/cbs.png
-a12,12,12,Super Bowl XLIV,superbowl-logos/xliv.png,106.5,2/7/2010,CBS,network-logos/cbs.png
-a13,13,13,"M*A*S*H (""Goodbye, Farewell and Amen"")",other-logos/mash.png,105.9,2/28/1983,CBS,network-logos/cbs.png
-a14,14,14,Super Bowl LII,superbowl-logos/lii.png,103.4,2/4/2018,NBC,network-logos/nbc.png
-a15,15,15,Super Bowl XXVII Halftime Show (Michael Jackson),other-logos/mj.png,102,1/31/1993,NBC,network-logos/nbc.png
-a16,16,16,Super Bowl LIV,superbowl-logos/liv.png,100.4,2/2/2020,Fox,network-logos/fox.png
-a17,17,17,"Roots (""Part VIII"")",other-logos/roots.png,100,1/30/1977,ABC,network-logos/abc.png
-a18,18,17,The Day After,other-logos/day-after.png,100,11/20/1983,ABC,network-logos/abc.png
-a19,19,19,Super Bowl XLIII,superbowl-logos/xliii.png,98.7,2/1/2009,NBC,network-logos/nbc.png
-a20,20,20,Super Bowl LIII,superbowl-logos/liii.png,98.2,2/3/2019,CBS,network-logos/cbs.png
-a21,21,21,Super Bowl XLII,superbowl-logos/xlii.png,97.4,2/3/2008,Fox,network-logos/fox.png
-a22,22,22,Police pursuit of O.J. Simpson,other-logos/bronco.png,95,6/17/1994,multiple,network-logos/multiple.png
-a23,23,23,Super Bowl XXX,superbowl-logos/xxx.png,94.1,1/28/1996,NBC,network-logos/nbc.png
-a24,24,24,Super Bowl XLI,superbowl-logos/xli.png,93.2,2/4/2007,CBS,network-logos/cbs.png
-a25,25,25,Super Bowl XX,superbowl-logos/xx.png,92.6,1/26/1986,NBC,network-logos/nbc.png
-a26,26,26,Super Bowl LV,superbowl-logos/lv.png,91.6,2/7/2021,CBS,network-logos/cbs.png
-a27,27,27,Super Bowl XXVII,superbowl-logos/xxvii.png,91,1/31/1993,NBC,network-logos/nbc.png
-a28,28,28,Super Bowl XL,superbowl-logos/xl.png,90.7,2/5/2006,ABC,network-logos/abc.png
-a29,29,29,Leon Spinks vs. Muhammad Ali II,other-logos/ali-spinks.png,90,9/15/1978,ABC,network-logos/abc.png
-a30,30,30,Super Bowl XXVIII,superbowl-logos/xxviii.png,90,1/30/1994,NBC,network-logos/nbc.png
+﻿text_index,Index,Rank,Broadcast,Broadcast Logo,Average viewers (in millions),Date,Network,Network Logo,Year,US Population,Population Growth,Viewers Percent of Population,text_index2,Viewers per Million,Viewers Percent of Population Rank
+a1,1,1,Apollo 11 Moon landing,other-logos/moon.png,142.5,7/20/1969,multiple,network-logos/multiple.png,1969,201.3,0.0102,0.707898659,b1,707899,1
+a11,11,11,Richard Nixon's resignation speech,other-logos/nixon.png,110,8/8/1974,multiple,network-logos/multiple.png,1974,213.3,0.0093,0.515705579,b2,515706,2
+a18,18,18,"Roots (""Part VIII"")",other-logos/roots.png,100,1/30/1977,ABC,network-logos/abc.png,1977,219.8,0.0101,0.454959054,b3,454959,3
+a14,14,14,"M*A*S*H (""Goodbye, Farewell and Amen"")",other-logos/mash.png,105.9,2/28/1983,CBS,network-logos/cbs.png,1983,233.8,0.0092,0.45295124,b4,452951,4
+a19,19,18,The Day After,other-logos/day-after.png,100,11/20/1983,ABC,network-logos/abc.png,1983,233.8,0.0092,0.427715997,b5,427716,5
+a30,30,30,Leon Spinks vs. Muhammad Ali II,other-logos/ali-spinks.png,90,9/15/1978,ABC,network-logos/abc.png,1978,222.1,0.0106,0.405222873,b6,405223,6
+a16,16,16,SB XXVII Halftime Show (Michael Jackson),other-logos/mj.png,102,1/31/1993,NBC,network-logos/nbc.png,1993,259.9,0.0133,0.392458638,b7,392459,7
+a26,26,26,Super Bowl XX,superbowl-logos/xx.png,92.6,1/26/1986,NBC,network-logos/nbc.png,1986,240.1,0.0093,0.385672636,b8,385673,8
+a23,23,23,Police pursuit of O.J. Simpson,other-logos/bronco.png,95,6/17/1994,multiple,network-logos/multiple.png,1994,263.1,0.0123,0.361079437,b9,361079,9
+a10,10,10,Super Bowl XLV,superbowl-logos/xlv.png,111,2/6/2011,Fox,network-logos/fox.png,2011,311.6,0.0092,0.356225931,b10,356226,10
+a4,4,4,Super Bowl XLIX,superbowl-logos/xlix.png,114.4,2/1/2015,NBC,network-logos/nbc.png,2015,321.4,0.008,0.35594275,b11,355943,11
+a8,8,7,Super Bowl XLVI,superbowl-logos/xlvi.png,111.3,2/5/2012,NBC,network-logos/nbc.png,2012,313.9,0.0075,0.35457152,b12,354572,12
+a2,2,2,Super Bowl LVIII,superbowl-logos/lviii.png,120,2/11/2024,CBS,network-logos/cbs.png,2024,339.8,0.93%,0.353148911,b13,353149,13
+a6,6,6,Super Bowl XLVIII,superbowl-logos/xlviii.png,112.2,2/2/2014,Fox,network-logos/fox.png,2014,318.9,0.0086,0.351834431,b14,351834,14
+a28,28,28,Super Bowl XXVII,superbowl-logos/xxvii.png,91,1/31/1993,NBC,network-logos/nbc.png,1993,259.9,0.0133,0.350134667,b15,350135,15
+a24,24,24,Super Bowl XXX,superbowl-logos/xxx.png,94.1,1/28/1996,NBC,network-logos/nbc.png,1996,269.4,0.0117,0.349294729,b16,349295,16
+a7,7,7,Super Bowl 50,superbowl-logos/50.png,111.9,2/7/2016,CBS,network-logos/cbs.png,2016,323.1,0.0053,0.346332405,b17,346332,17
+a13,13,13,Super Bowl XLIV,superbowl-logos/xliv.png,106.5,2/7/2010,CBS,network-logos/cbs.png,2010,308.7,0.0064,0.344995141,b18,344995,18
+a12,12,12,Super Bowl XLVII,superbowl-logos/xlvii.png,108.7,2/3/2013,CBS,network-logos/cbs.png,2013,316.1,0.0071,0.343878519,b19,343879,19
+a9,9,9,Super Bowl LI,superbowl-logos/li.png,111.3,2/5/2017,Fox,network-logos/fox.png,2017,325.1,0.0061,0.342356198,b20,342356,20
+a31,31,30,Super Bowl XXVIII,superbowl-logos/xxviii.png,90,1/30/1994,NBC,network-logos/nbc.png,1994,263.1,0.0123,0.342075257,b21,342075,21
+a3,3,3,Super Bowl LVII,superbowl-logos/lvii.png,115.1,2/12/2023,Fox,network-logos/fox.png,2023,336.7,0.94%,0.341874153,b22,341874,22
+a5,5,5,Super Bowl LVI,superbowl-logos/lvi.png,112.3,2/13/2022,NBC,network-logos/nbc.png,2022,333.5,0.77%,0.336685195,b23,336685,23
+a20,20,20,Super Bowl XLIII,superbowl-logos/xliii.png,98.7,2/1/2009,NBC,network-logos/nbc.png,2009,306.8,0.0088,0.321707953,b24,321708,24
+a22,22,22,Super Bowl XLII,superbowl-logos/xlii.png,97.4,2/3/2008,Fox,network-logos/fox.png,2008,304.1,0.0095,0.320289378,b25,320289,25
+a15,15,15,Super Bowl LII,superbowl-logos/lii.png,103.4,2/4/2018,NBC,network-logos/nbc.png,2018,326.7,0.0049,0.316498316,b26,316498,26
+a25,25,25,Super Bowl XLI,superbowl-logos/xli.png,93.2,2/4/2007,CBS,network-logos/cbs.png,2007,301.2,0.0095,0.309428951,b27,309429,27
+a17,17,17,Super Bowl LIV,superbowl-logos/liv.png,100.4,2/2/2020,Fox,network-logos/fox.png,2020,329.5,0.0038,0.304704097,b28,304704,28
+a29,29,29,Super Bowl XL,superbowl-logos/xl.png,90.7,2/5/2006,ABC,network-logos/abc.png,2006,298.4,0.0097,0.303954424,b29,303954,29
+a21,21,21,Super Bowl LIII,superbowl-logos/liii.png,98.2,2/3/2019,CBS,network-logos/cbs.png,2019,328.2,0.0048,0.2992078,b30,299208,30
+a27,27,27,Super Bowl LV,superbowl-logos/lv.png,91.6,2/7/2021,CBS,network-logos/cbs.png,2021,331,0.0046,0.27673716,b31,276737,31
