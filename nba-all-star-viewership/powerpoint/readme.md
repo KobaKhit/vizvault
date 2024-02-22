@@ -1,3 +1,5 @@
+![](NBA-All-Star-2024-Viewership.png)
+
 ## References
 
   - [NBA All Star Game Ratings - Statista](https://www.statista.com/statistics/252832/nba-all-star-game-telecasts-on-tnt-viewership-and-ratings/)
